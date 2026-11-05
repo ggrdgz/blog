@@ -1,5 +1,5 @@
 # Content
-The content of this blog is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The content on this blog is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 # Code snippets
 The code snippets on this blog are licensed under MIT License.
