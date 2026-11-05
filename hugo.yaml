@@ -1,4 +1,7 @@
 baseURL: https://example.org/
+caches:
+  images:
+    dir: :cacheDir/images
 enableGitInfo: true
 enableRobotsTXT: true
 menus:
