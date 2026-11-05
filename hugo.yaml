@@ -1,0 +1,28 @@
+baseURL: https://example.org/
+enableGitInfo: true
+enableRobotsTXT: true
+menus:
+  main:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: Tags
+    pageRef: /tags
+    weight: 20
+  - name: Feed
+    url: /index.xml
+    weight: 30
+  - name: GitHub
+    url: "http://github.com/ggrdgz"
+    weight: 40
+minify:
+  minifyOutput: true
+module:
+  imports:
+    - path: github.com/ggrdgz/minblg
+locale: en-US
+theme: github.com/ggrdgz/minblg
+title: ggrdgz
+params:
+  menuColor: purple
+  footerText: '&copy; 2026 ggrdgz &middot; <a href="https://github.com/ggrdgz/blog/blob/main/LICENSE.md">License</a>'
