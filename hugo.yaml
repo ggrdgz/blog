@@ -1,4 +1,4 @@
-baseURL: https://ggrdgz.github.io/
+baseURL: https://ggrdgz.github.io/blog/
 caches:
   images:
     dir: :cacheDir/images
