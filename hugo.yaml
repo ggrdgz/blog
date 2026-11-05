@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://ggrdgz.github.io/blog/
 caches:
   images:
     dir: :cacheDir/images
@@ -27,5 +27,5 @@ locale: en-US
 theme: github.com/ggrdgz/minblg
 title: ggrdgz
 params:
-  menuColor: purple
+  menuColor: blue
   footerText: '&copy; 2026 ggrdgz &middot; <a href="https://github.com/ggrdgz/blog/blob/main/LICENSE.md">License</a>'
