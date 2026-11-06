@@ -12,3 +12,5 @@ github.com/ggrdgz/minblg v0.0.0-20261106123117-f757f957cbfe h1:nKeMBU7WlQozPxk4v
 github.com/ggrdgz/minblg v0.0.0-20261106123117-f757f957cbfe/go.mod h1:YSW098Aby61Nc5yXwPLqj2ko7QuEMdXvmw9faLvUOgU=
 github.com/ggrdgz/minblg v0.0.0-20261106124434-42a2dba5a0fd h1:QcMN87ckZPpP3tctdNvNyjrNnjGvx/SQWPTiZiOXWws=
 github.com/ggrdgz/minblg v0.0.0-20261106124434-42a2dba5a0fd/go.mod h1:YSW098Aby61Nc5yXwPLqj2ko7QuEMdXvmw9faLvUOgU=
+github.com/ggrdgz/minblg v0.0.0-20261106160920-6350090e34b3 h1:GwsRRQPlL51q4Jc4/4vMWydQwNp5pgoaOoL9jW733QI=
+github.com/ggrdgz/minblg v0.0.0-20261106160920-6350090e34b3/go.mod h1:YSW098Aby61Nc5yXwPLqj2ko7QuEMdXvmw9faLvUOgU=
