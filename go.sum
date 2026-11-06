@@ -8,3 +8,5 @@ github.com/ggrdgz/minblg v0.0.0-20261105121531-6becd80ce4f0 h1:DV+XzwvMxfxRNpFzB
 github.com/ggrdgz/minblg v0.0.0-20261105121531-6becd80ce4f0/go.mod h1:YSW098Aby61Nc5yXwPLqj2ko7QuEMdXvmw9faLvUOgU=
 github.com/ggrdgz/minblg v0.0.0-20261105204646-4e2aa2b92bdb h1:2OysBwV5gtLTmtiBP0apjoAkYY0lYarP98gxGUluZbM=
 github.com/ggrdgz/minblg v0.0.0-20261105204646-4e2aa2b92bdb/go.mod h1:YSW098Aby61Nc5yXwPLqj2ko7QuEMdXvmw9faLvUOgU=
+github.com/ggrdgz/minblg v0.0.0-20261106123117-f757f957cbfe h1:nKeMBU7WlQozPxk4v79Smny5b87g4G6hEf+tOEtLTm0=
+github.com/ggrdgz/minblg v0.0.0-20261106123117-f757f957cbfe/go.mod h1:YSW098Aby61Nc5yXwPLqj2ko7QuEMdXvmw9faLvUOgU=
